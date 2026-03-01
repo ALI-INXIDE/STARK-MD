@@ -35,7 +35,7 @@
 `If you don’t have your SESSION_ID, click below and enter your number with country code (e.g. 92300xxxxxx):`
 
 > **PAIR CODE SESSION ID**
-<a href='https://stark-md-aolc.onrender.com' target="_blank">
+<a href='https://stark-md-pair.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
