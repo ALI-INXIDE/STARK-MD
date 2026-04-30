@@ -1,13 +1,8 @@
 {
-  "name": "STARK-MD",
-  "version": "9.0.0",
+  "bot-name": "STARK-MD",
   "description": "STARK MD, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
-  "website": "https://files.catbox.moe/ykdtkm.jpeg",
   "logo": "https://files.catbox.moe/w3k9sq.jpg",
   "keywords": ["STARK-MD", "Whatsapp bot", "Bot", "STARK-MD BOT"],
-  "repository": "https://github.com/ALI-INXIDE/STARK-MD",
-  "success_url": "/",
-  "stack": "container",
   "documentation-link": "https://stark-pair-nine.vercel.app",
   "owner-verification":"alitechx7@gmail.com",
   
