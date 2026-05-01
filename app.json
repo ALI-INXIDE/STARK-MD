@@ -1,10 +1,10 @@
 {
-  "name": "STARK-MD",
+  "name": "ROLEX-MD",
   "version": "9.0.0",
-  "description": "STARK MD, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
+  "description": "ROLEX, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
   "website": "https://files.catbox.moe/ykdtkm.jpeg",
-  "logo": "https://files.catbox.moe/w3k9sq.jpg",
-  "keywords": ["STARK-MD", "Whatsapp bot", "Bot", "STARK-MD BOT"],
+  "logo": "https://files.catbox.moe/71241m.png",
+  "keywords": ["ROLEX-MD", "Whatsapp bot", "Bot", "ROLEX-MD BOT"],
   "repository": "https://github.com/ALI-INXIDE/STARK-MD",
   "success_url": "/",
   "stack": "container",
@@ -36,12 +36,12 @@
     },
      "OWNER_NUMBER": {
       "description": "Bot owner number",
-      "value": "923437393822",
+      "value": "916291099062",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Owner display name",
-      "value": "THE ALI INXIDE",
+      "value": "ROLEX",
       "required": true
     },
     "AUTO_STATUS_EMOJIS": {
@@ -61,7 +61,7 @@
     },
     "PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "мα∂є ву ѕтαяк-м∂",
+      "value": "мα∂є ву CYBER X-м∂",
       "required": false
     },
     "PREFIX": {
@@ -86,7 +86,7 @@
     },
     "BOT_PIC": {
       "description": "put Bot menu picture URL",
-      "value": "https://files.catbox.moe/w3k9sq.jpg",
+      "value": "https://files.catbox.moe/71241m.png",
       "required": true
     },
     "PRESENCE": {
@@ -96,7 +96,7 @@
     },
     "TIME_ZONE": {
       "description": "Your timezone",
-      "value": "Asia/Karachi",
+      "value": "CYBER/ROLEX",
       "required": true
     }
   },

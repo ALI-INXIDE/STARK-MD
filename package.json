@@ -1,5 +1,5 @@
 {
-  "name": "stark-md",
+  "name": "ROLEX-md",
   "version": "9.0.0",
   "description": "NOT THE BEST BOT IN THE UNIVERSE, BUT ENJOYMENT IS PROMISING 💫",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "stop": "pm2 stop stark-md",
     "restart": "pm2 restart stark-md"
   },
-  "author": "ALI-INXIDE",
+  "author": "CYBER-XMD",
   "license": "MIT",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
