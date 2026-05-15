@@ -20,6 +20,52 @@
 
 ***
 
+## ✨ FEATURES
+
+### 🎯 Core Features
+- **Multi-Device Support** - Works with WhatsApp's latest multi-device feature
+- **250+ Commands** - Extensive command library for all your needs
+- **Modular Plugin System** - Easy to add/remove functionality
+- **Database Integration** - own-db for persistent storage
+- **Web Dashboard** - Beautiful web interface for management
+
+---
+
+## 🛠️ MAIN COMMAND CATEGORIES
+
+| Category | Popular Commands | Description |
+|----------|------------------|-------------|
+| 👥 **Group Management** | `kick`, `add`, `promote`, `demote`, `tagall`, `welcome` | Powerful admin & moderation tools |
+| 🤖 **AI Features** | `ai`, `openai`, `deepseek` | AI chat & smart assistant features |
+| 📥 **Downloader** | `ytmp3`, `ytmp4`, `spotify`, `instagram`, `facebook`, `tiktok` | Download videos, music & media |
+| 🖼️ **Converter** | `sticker`, `toimg`, `tts`, `url`, `tiny` | Media conversion & utility tools |
+| 🔍 **Search Tools** | `google`, `github`, `wiki`, `weather`, `news` | Instant search & information lookup |
+| 🎨 **Logo Maker** | `neon`, `galaxy`, `glitch`, `gold`, `typography` | Stylish text & logo generation |
+| 🎮 **Fun & Games** | `ship`, `roast`, `8ball`, `lovetest`, `aura` | Entertainment & fun commands |
+| ⚙️ **System Tools** | `ping`, `runtime`, `system`, `restart` | Bot monitoring & performance tools |
+| 👑 **Owner Commands** | `broadcast`, `block`, `setpp`, `autoread`, `prefix` | Advanced owner-only controls |
+
+---
+
+## 🔥 SPECIAL FEATURES 
+
+- ✅ **Anti-Delete** — Recover deleted messages instantly
+- ✅ **Auto-Read Status** — Automatically view status updates
+- ✅ **Auto-React Status** — React to statuses with emojis
+- ✅ **Welcome & Goodbye** — Customizable group greetings
+- ✅ **Anti-Link** — Protect groups from spam links
+- ✅ **Anti-Spam** — Smart rate-limit protection
+- ✅ **Always Online** — Keep bot presence active
+- ✅ **Auto-Typing** — Show typing indicator automatically
+- ✅ **Anti-Promote** — Prevent unauthorized admin promotions
+- ✅ **Anti-Demote** — Block unauthorized admin demotions
+- ✅ **Anti-Status** — Restrict unwanted status activities
+- ✅ **Anti-Tag** — Prevent excessive mass mentions/tag spam
+- ✅ **Anti-Newsletter** — Block WhatsApp newsletter/channel links
+- ✅ **Custom Prefix** — Change bot prefix anytime
+- ✅ **24/7 Stability** — Optimized for continuous uptime
+- ✅ **Fast Response** — Lightweight & high-speed performance
+
 ## 🪄 SETUP GUIDE
 
 ### 🧩 1. FORK THIS REPOSITORY
